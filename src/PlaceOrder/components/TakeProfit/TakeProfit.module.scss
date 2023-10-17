@@ -1,0 +1,19 @@
+.root {
+  background-color: #2B273B; // FIXME: color to pallete
+  padding: 0 10px;
+  border-radius: 8px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 0;
+  // color: white; // FIXME: color to pallete
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
